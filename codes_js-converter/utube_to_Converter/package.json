@@ -1,0 +1,11 @@
+{
+  "name": "YouTube-To-MP3",
+  "version": "1.0.0",
+  "devDependencies": {
+    "ytdl-core": "^4.11.2"
+  },
+  "dependencies": {
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
